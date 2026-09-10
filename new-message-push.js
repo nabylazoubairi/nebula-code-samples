@@ -1,4 +1,4 @@
-// Cloud Function (Firestore trigger) — Au Pair Society
+// Cloud Function (Firestore trigger) — Nebula
 // Fires when a chat message is created; notifies the recipient via push
 // and logs an in-app notification, disambiguating same-first-name users.
 

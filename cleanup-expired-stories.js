@@ -1,4 +1,4 @@
-// Cloud Function (scheduled) — Au Pair Society
+// Cloud Function (scheduled) — Nebula
 // Runs daily; deletes stories older than 24h (unless highlighted) from
 // both Firestore and Storage, in parallel and fault-tolerant.
 

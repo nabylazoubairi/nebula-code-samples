@@ -1,4 +1,4 @@
-// Cloud Function (Firestore trigger) — Au Pair Society
+// Cloud Function (Firestore trigger) — Nebula
 // Fires when a friend request flips to "accepted"; links both users
 // server-side because Firestore security rules only let each client
 // write its own user document.
